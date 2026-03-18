@@ -27,3 +27,15 @@ Successfully identified suspicious activity in the logs.
 ## 💡 Key Takeaways
 - Logs are important for detecting attacks
 - SIEM tools help monitor systems in real-time
+## 🚨 Scenario
+A suspicious login attempt was detected in the system logs. My task was to investigate and determine if it was malicious.
+
+## 🧠 Analysis
+- The login came from an unusual IP address 
+- Multiple failed attempts were recorded 
+- Activity occurred outside normal hours 
+
+## 🛡️ Recommendation
+- Block the IP address 
+- Enable multi-factor authentication 
+- Monitor for repeated attempts 
